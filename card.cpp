@@ -16,6 +16,8 @@
 #include "field.h"
 #include "interpreter.h"
 
+//test change
+
 bool card_sort::operator()(const card* c1, const card* c2) const {
 	return c1->cardid < c2->cardid;
 }
