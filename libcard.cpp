@@ -18,6 +18,8 @@
 using LUA_CLASS = card;
 #include "function_array_helper.h"
 
+//test change
+
 namespace {
 
 using namespace scriptlib;
